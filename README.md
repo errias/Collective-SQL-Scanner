@@ -25,9 +25,3 @@ optional arguments:
 
 ### Writing over existing log file 
 `python main.py -d product.php?id= -w`
-
-### Screenshot
-<img src="screenshot/img.PNG" atl=""/>
-
-### Original Author
-<a href="https://github.com/Ranginang67"><img src="https://img.shields.io/badge/Original-Author-brightgreen.svg" alt=""/></a>
