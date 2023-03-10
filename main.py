@@ -1,5 +1,5 @@
 from lib.sql import SQL 
-from lib.display import Display
+from lib.display import Display  
 from argparse import ArgumentParser
 
 
