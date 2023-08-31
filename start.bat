@@ -1,5 +1,5 @@
 @echo off
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 cls
 echo Example Dork: product.php?id=
 
